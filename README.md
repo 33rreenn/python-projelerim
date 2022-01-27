@@ -1,2 +1,2 @@
 # python-projelerim
-Python projelerim 
+Bu repository ta python projlerim bulunmakta
